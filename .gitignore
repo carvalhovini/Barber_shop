@@ -88,3 +88,30 @@ sw.*
 
 # Vim swap files
 *.swp
+
+
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Diretórios de compilação
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+
+# Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
